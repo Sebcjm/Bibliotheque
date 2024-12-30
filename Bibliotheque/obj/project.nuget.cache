@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/kwtsUReXiM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SebastienGUELY\\Documents\\Projets\\C#\\Projet - Bibliothèque\\Bibliotheque\\Bibliotheque.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SebastienGUELY\\.nuget\\packages\\system.io.pipelines\\9.0.0\\system.io.pipelines.9.0.0.nupkg.sha512",
+    "C:\\Users\\SebastienGUELY\\.nuget\\packages\\system.text.encodings.web\\9.0.0\\system.text.encodings.web.9.0.0.nupkg.sha512",
+    "C:\\Users\\SebastienGUELY\\.nuget\\packages\\system.text.json\\9.0.0\\system.text.json.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
